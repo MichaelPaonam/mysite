@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MysiteApplication<mysite>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mysite.mysite.MysiteApplication",
+            "projectName": "mysite",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ReactAndSpringDataRestApplication<mysite>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mysite.mysite.model.ReactAndSpringDataRestApplication",
+            "projectName": "mysite",
+            "args": ""
+        }
+    ]
+}
